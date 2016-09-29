@@ -14,6 +14,8 @@ namespace ClassLibrary
         public Noeud huffmanTable;
         public List<Noeud> charList;
 
+        //test
+
         public string PluginName{ get { return "HuffmanTest"; } set { } }
 
         ///<summary>
