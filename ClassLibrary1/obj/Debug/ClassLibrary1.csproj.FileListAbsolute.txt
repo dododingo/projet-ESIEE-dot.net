@@ -1,0 +1,7 @@
+C:\Users\dododingo\Documents\Visual Studio 2015\Projects\ClassLibrary1\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+C:\Users\dododingo\Documents\Visual Studio 2015\Projects\ClassLibrary1\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+C:\Users\dododingo\Documents\Visual Studio 2015\Projects\ClassLibrary1\ClassLibrary1\bin\Debug\HuffmanData.dll
+C:\Users\dododingo\Documents\Visual Studio 2015\Projects\ClassLibrary1\ClassLibrary1\bin\Debug\HuffmanData.pdb
+C:\Users\dododingo\Documents\Visual Studio 2015\Projects\ClassLibrary1\ClassLibrary1\obj\Debug\ClassLibrary1.csprojResolveAssemblyReference.cache
+C:\Users\dododingo\Documents\Visual Studio 2015\Projects\ClassLibrary1\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+C:\Users\dododingo\Documents\Visual Studio 2015\Projects\ClassLibrary1\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
